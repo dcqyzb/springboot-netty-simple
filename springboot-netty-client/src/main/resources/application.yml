@@ -1,0 +1,8 @@
+netty:
+  port: 7000
+  host: 192.168.20.206
+  size: 256
+
+
+server:
+  port: 8887
